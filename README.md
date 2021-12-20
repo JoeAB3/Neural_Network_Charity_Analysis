@@ -3,10 +3,10 @@ The Alphabet Soup business team received a CSV file containing more than 34,000 
 The challenge for this project was to create a binary classifier that will help to predict if the applicants that will funded by by Alphabet Soup will be successful. 
 The team was challenged to create 4 items:
 
-Process the nueral network data
-Traini and evaluating the model
-Optimize the model
-Report on the results
+1. Process the nueral network data
+2. Train and evaluate the model
+3. Optimize the model
+4. Report on the results
 
 The initial model was not able to reach the target 75%. The accuracy for my model was 53%.
 
