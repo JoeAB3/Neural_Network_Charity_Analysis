@@ -14,4 +14,4 @@ Futher attempts were a mixed bag:
 Attempt #1 (removing features) came in at 71%.
 Attempt #2 (adding additional neurons to hidden layers and additional layers added) came in at just 52%
 Finally Attempt #3 (changing activation function of output layer was 47%.
-The most effective was removing features. 
+The most effective attempt was removing features. 
